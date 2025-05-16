@@ -1,6 +1,6 @@
 <h2 align="left">Seja Bem-Vindo(a) ao meu Github!</h2>
 
-<p>Me chamo Marlon, sou de Pelotas, Rio Grande do Sul e tenho 25 anos! sou um Desenvolvedor Full Stack Junior que também está cursando o 2° semestre de Análise e Desenvolvimento de Sistema pela Unisenac, FATEC Pel. Costumo dizer que ninguém me vence no esforço, seja bem-vindo ao meu perfil, espero que faça bom proveito, qualquer dúvida à respeito de algum repositório você pode me chamar diretamente pelo número 55 (53) 981649558.</p>
+<p>Me chamo Marlon, sou de Pelotas, Rio Grande do Sul e tenho 25 anos! sou um Desenvolvedor Full Stack Junior que também está cursando o 2° semestre de Análise e Desenvolvimento de Sistemas pela Unisenac, FATEC Pel. Costumo dizer que ninguém me vence no esforço, seja bem-vindo ao meu perfil, espero que faça bom proveito, qualquer dúvida à respeito de algum repositório você pode me chamar diretamente pelo número 55 (53) 981649558.</p>
 
 ###
 
